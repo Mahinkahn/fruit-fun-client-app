@@ -6,7 +6,7 @@ const Blog = () => {
   const [box3, setBox3] = useState(false);
   const [box4, setBox4] = useState(false);
   useEffect(() => {
-    document.title = "Blog - Yummi-Homemade";
+    document.title = "Blog - Fuit-Fun";
   }, []);
   return (
     <div>
@@ -17,7 +17,7 @@ const Blog = () => {
       </div>
       <div>
         <img
-          src="https://i.ibb.co/kJXFDw3/Curve-Yellow-Background-For-Free.jpg"
+          src="https://artmiamimagazine.com/wp-content/uploads/2018/11/What-Does-Your-Favorite-Color-Say-About-You-infographic-1.jpg"
           alt="blue pattern background"
           className="absolute w-full h-64 md:h-96 object-center object-fit z-0"
         />

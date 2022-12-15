@@ -3,7 +3,7 @@ import toast from "react-hot-toast";
 
 const AddSarvice = () => {
   useEffect(() => {
-    document.title = "AddService - Yummi-Homemade";
+    document.title = "AddService - Fuit-Fun";
   }, []);
 
   const handleAddService = (e) => {

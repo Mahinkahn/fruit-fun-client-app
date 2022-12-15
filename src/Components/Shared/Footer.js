@@ -8,7 +8,7 @@ const Footer = () => {
         <div>
           <img
             className="w-[111px]"
-            src="https://i.ibb.co/VJ05L3B/logo1.png"
+            src="https://image.similarpng.com/very-thumbnail/2020/04/fast-food-logo-emblem.png"
             alt=""
           />
         </div>

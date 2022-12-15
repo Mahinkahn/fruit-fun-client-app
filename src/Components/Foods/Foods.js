@@ -12,7 +12,7 @@ const Foods = () => {
     setLoading(true);
     AOS.init();
     AOS.refresh();
-    document.title = "FoodService - Yummi-Homemade";
+    document.title = "FoodService - Fuit-Fun";
     fetch("https://assinment11.vercel.app/foods")
       .then((res) => res.json())
       .then((result) => {
@@ -33,7 +33,7 @@ const Foods = () => {
         <div className=" 2xl:container 2xl:mx-auto ">
           <div className=" bg-gray-50 text-center lg:py-10 md:py-8 py-6">
             <p className=" w-10/12 mx-auto md:w-full  lg:text-4xl text-3xl lg:leading-9 md:leading-7 leading-9 font-bold text-center text-gray-800 font-serif">
-              Yummy's Services Foods
+              Fuit-Fun's Services Foods
             </p>
           </div>
           <div className=" py-6 lg:px-20 md:px-6 px-4">
