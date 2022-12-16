@@ -28,7 +28,7 @@ const FoodReview = ({ reviewData }) => {
                 <div>
                   <p className="mt-3 text-base leading-normal text-gray-600 w-full md:w-9/12 xl:w-5/6">
                     <FaQuoteLeft className="inline mb-5" /> {data?.review}
-                    <FaQuoteRight className="inline mb-5"/>
+                    <FaQuoteRight className="inline mb-5" />
                   </p>
                   <div className="mt-6 flex justify-start items-center flex-row space-x-2.5">
                     <div>
@@ -66,7 +66,7 @@ const FoodReview = ({ reviewData }) => {
         ) : (
           <div>
             <h1 className="text-center text-2xl font-bold">
-              No review yet on this food
+              No review yet on this Fuit-Fun
             </h1>
           </div>
         )}
