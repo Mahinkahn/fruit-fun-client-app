@@ -24,7 +24,7 @@ const Home = () => {
           alt=""
         />
         <h1 className="lg:text-4xl text-2xl font-bold font-serif p-4 text-center">
-          Home Cooked Fuit-Fun Is Healthier Than Fast Food Or Takeout
+          Home Cooked Fuit-Fun Is Healthier Than Fast Fuit-fun Or Takeout
         </h1>
       </div>
       {/* food section  */}
