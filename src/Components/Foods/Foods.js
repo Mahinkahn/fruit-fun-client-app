@@ -38,7 +38,7 @@ const Foods = () => {
           </div>
           <div className=" py-6 lg:px-20 md:px-6 px-4">
             <p className=" font-normal text-sm leading-3 text-gray-600 ">
-              Home / books by Food / Food
+              Home / books by Food / Fuit-Fun
             </p>
             <hr className=" w-full bg-gray-200 my-6" />
 
