@@ -16,7 +16,7 @@ const Home = () => {
         data-aos="zoom-out-right"
         data-aos-easing="ease-out-cubic"
         data-aos-duration="1000"
-        className="bg-yellow-50 "
+        className="bg-yellow-50 mb-5"
       >
         <img
           className="md:w-[75%] p-6 mx-auto lg:mt-20 md:mt-16 mt-10"
