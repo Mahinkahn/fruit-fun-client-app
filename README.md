@@ -1,8 +1,6 @@
 # 
 
-## Live Link
-
-Hosted in firebase -> 
+## Live Link : https://fuit-fun.web.app
 
 ## My Projects Detail's
 
