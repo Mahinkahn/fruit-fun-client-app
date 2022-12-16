@@ -88,35 +88,35 @@ const AddSarvice = () => {
           </div>
         </div>
         <h1 className="focus:outline-none font-serif text-3xl font-bold text-gray-800 mt-12">
-          Add Services Food
+          Add Services Fuit-Fun
         </h1>
         <p className=" focus:outline-nonetext-sm font-light leading-tight text-black mt-4">
-          Add Most Wanted Foods and i will delivered to Your Home
+          Add Most Wanted Fuit-Fun and i will delivered to Your Home
         </p>
         <div className="mt-8 md:flex items-center">
           <div className="flex flex-col">
             <label className="mb-3 text-sm leading-none text-gray-800">
-              Food Name
+              Fuit-Fun Name
             </label>
             <input
               name="name"
               type="name"
               aria-label=""
               className="w-64 bg-gray-100 text-sm font-medium leading-none text-gray-800 p-3 border rounded border-gray-200"
-              placeholder="inter your Food name"
+              placeholder="inter your  Fuit-Fun name"
               required
             />
           </div>
           <div className="flex flex-col md:ml-12 md:mt-0 mt-8">
             <label className="mb-3 text-sm leading-none text-gray-800">
-              Food Photo
+              Fuit-Fun Photo
             </label>
             <input
               type="name"
               name="image"
               aria-label="Enter last name"
               className="w-64 bg-gray-100 text-sm font-medium leading-none text-gray-800 p-3 border rounded border-gray-200"
-              placeholder="Food URL"
+              placeholder=" Fuit-Fun URL"
               required
             />
           </div>
@@ -131,25 +131,25 @@ const AddSarvice = () => {
               name="ratings"
               aria-label=""
               className="w-64 bg-gray-100 text-sm font-medium leading-none text-gray-800 p-3 border rounded border-gray-200 "
-              placeholder="Food Ratings"
+              placeholder=" Fuit-Fun Ratings"
               required
             />
           </div>
           <div className="flex flex-col md:ml-12 md:mt-0 mt-8">
             <label className="mb-3 text-sm leading-none text-gray-800">
-              Food Price
+              Fuit-Fun Price
             </label>
             <input
               type="number"
               name="price"
               className="w-64 bg-gray-100 text-sm font-medium leading-none text-gray-800 p-3 border rounded border-gray-200"
-              placeholder="Food Price"
+              placeholder=" Fuit-Fun Price"
             />
           </div>
         </div>
         <div className="mt-12">
           <label className="mb-3 block text-sm leading-none text-gray-800">
-            Food Detail's
+            Fuit-Fun Detail's
           </label>
           <textarea
             className="block bg-gray-100 text-sm font-medium leading-none text-gray-800 p-3 border rounded border-gray-200"

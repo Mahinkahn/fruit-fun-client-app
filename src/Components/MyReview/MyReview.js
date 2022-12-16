@@ -32,10 +32,10 @@ const MyReview = () => {
       }
     });
   };
-console.log(reviewData);
+  console.log(reviewData);
   // maybe error
   useEffect(() => {
-    document.title = "My Reviews - Yummi-Homemade";
+    document.title = "My Reviews - Futi-Fun";
     if (user?.email) {
       fetch(`https://assinment11.vercel.app/myReview?email=${user?.email}`, {
         headers: {

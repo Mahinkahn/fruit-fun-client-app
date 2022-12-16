@@ -63,7 +63,7 @@ const Register = () => {
       .catch((err) => console.error(err));
   };
   useEffect(() => {
-    document.title = "Register - Yummi-Homemade";
+    document.title = "Register - Fuit-Fun";
   }, []);
 
   return (

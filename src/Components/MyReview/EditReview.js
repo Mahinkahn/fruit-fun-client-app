@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import toast from "react-hot-toast";
-import {  useLoaderData, useNavigate } from "react-router-dom";
+import { useLoaderData, useNavigate } from "react-router-dom";
 
 const EditReview = () => {
   const reviewsData = useLoaderData();
@@ -45,7 +45,7 @@ const EditReview = () => {
         >
           <div className="relative w-11/12 sm:w-8/12 md:w-9/12 bg-white dark:bg-gray-800 shadow  pt-10 pb-8 rounded">
             <div className="flex flex-col items-center px-4 md:px-12">
-              <img src="https://i.ibb.co/QDMrqK5/Saly-10.png" />
+              <img src="https://static.vecteezy.com/system/resources/previews/001/307/953/original/cute-boy-in-standing-position-showing-thumb-vector.jpg" />
               <p className="text-base sm:text-lg md:text-2xl font-bold md:leading-6 mt-6 text-gray-800 text-center dark:text-gray-100">
                 Edit Review
               </p>

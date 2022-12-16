@@ -19,7 +19,7 @@ const FoodCard = () => {
     <div className=" 2xl:container 2xl:mx-auto">
       <div className=" bg-gray-50 text-center lg:py-10 md:py-8 py-6">
         <p className=" w-10/12 mx-auto md:w-full  font-semibold lg:text-4xl text-2xl lg:leading-9 md:leading-7 font-serif   leading-9 text-center text-gray-800">
-          Most Favoured Food
+          Most Favoured Fuit-Fun
         </p>
       </div>
       <div className=" lg:px-20 md:px-6 px-4">

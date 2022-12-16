@@ -47,7 +47,7 @@ const ReviewForm = ({ foodData, reload, setReload }) => {
                     {/* end */}
                     <div className=" px-7">
                       <p className="text-xl font-semibold leading-tight text-gray-800">
-                        Review Food
+                        Review Fuit-Fun
                       </p>
                       <div className="grid w-full grid-cols-1 lg:grid-cols-2 md:grid-cols-1 gap-7 mt-7 "></div>
                     </div>
@@ -172,7 +172,7 @@ const ReviewForm = ({ foodData, reload, setReload }) => {
                       </div>
                     </div>
                     <p className="mt-3 text-xs leading-[15px] text-gray-600 px-7">
-                      Enter Your Food Experience for better understanding
+                      Enter Your Fuit-Fun Experience for better understanding
                     </p>
                     <div className="text-center">
                       <button className="border-2  border-yellow-500 rounded hover:bg-yellow-500 transform duration-300 ease-in-out text-sm font-medium px-6 py-4 text-black lg:max-w-[144px] w-full ">
@@ -188,7 +188,7 @@ const ReviewForm = ({ foodData, reload, setReload }) => {
       ) : (
         <div className="flex flex-col items-center">
           <h1 className="text-5xl text-center py-4 text-red-600 font-serif">
-            Please Login To Review Our Food
+            Please Login To Review Our Fuit-Fun
           </h1>
           <Link to="../login">
             <button className="border-2 border-red-600  py-2 px-5 rounded-lg hover:bg-red-600 hover:text-white font-bold">

@@ -85,7 +85,7 @@ const Footer = () => {
         </div>
         <div className="flex items-center mt-6">
           <p className="text-base leading-4 text-gray-800">
-            2022 <span className="font-semibold">Yummi-Tummy</span>
+            2022 <span className="font-semibold">Fuit-Fun</span>
           </p>
           <div className="border-l border-gray-800 pl-2 ml-2">
             <p className="text-base leading-4 text-gray-800">

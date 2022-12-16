@@ -46,7 +46,7 @@ const Header = () => {
             <div className="relative">
               <img
                 className="w-16"
-                src="https://i.ibb.co/VJ05L3B/logo1.png"
+                src="https://www.transparentpng.com/thumb/food/X1SylL-food-logo-high-quality-png.png"
                 alt=""
               />
             </div>
